@@ -4,6 +4,8 @@ import 'package:screen_specifications_teravel/my_colors.dart';
 
 import 'package:screen_specifications_teravel/splash_screen.dart';
 
+// TODD  IMplement the splash Screen
+// this is foe sake of demoe and you should always know CEO ABOLFAZL
 void main() {
   runApp(const MyApp());
 }
