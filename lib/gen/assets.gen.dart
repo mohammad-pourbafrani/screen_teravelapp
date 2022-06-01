@@ -13,6 +13,18 @@ class $AssetsIconsGen {
   /// File path: assets/icons/Group 12517.png
   AssetGenImage get group12517 =>
       const AssetGenImage('assets/icons/Group 12517.png');
+
+  /// File path: assets/icons/Icon compass.png
+  AssetGenImage get iconCompass =>
+      const AssetGenImage('assets/icons/Icon compass.png');
+
+  /// File path: assets/icons/Icon heart.png
+  AssetGenImage get iconHeart =>
+      const AssetGenImage('assets/icons/Icon heart.png');
+
+  /// File path: assets/icons/Icon user.png
+  AssetGenImage get iconUser =>
+      const AssetGenImage('assets/icons/Icon user.png');
 }
 
 class $AssetsImagesGen {
